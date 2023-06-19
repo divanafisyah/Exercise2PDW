@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+h1{
+    font-family: 'Gill Sans MT', cursive;
+    font-size: 24px;
+}
+h2{
+    font-family: 'Gill Sans MT', cursive;
+    font-size: 18px;
+    letter-spacing: 1px;
+            text-transform: lowercase;
+            text-align: center;
+            border: 2px solid rgb(132, 53, 53);
+            background: rgb(121, 121, 130);
+            color: rgb(47, 38, 38);
+            box-shadow: 1px 1px 2px bisque;
+            border-radius: 10px;
+            padding: 3px 10px;
+            cursor: pointer;
+}
+    .custom-button {
+        width: 3500px;
+        height: 200px;
+    }
